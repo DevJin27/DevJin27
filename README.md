@@ -1,8 +1,9 @@
 <div>
-<a href="https://github.com/DevJin27"><img src="https://gifdb.com/gif/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.html?embed=true" alt="DevJin27"  align="right" width="400px"/></a>
+  <a href="https://github.com/DevJin27">
+  <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="DevJin27" align="right" width="400px"/>
+</a>
 <br>
   
--  _I’m currently working on TimeTuner_
 
 - 💻 Coding & Problem Solving
   
