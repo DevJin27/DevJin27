@@ -1,5 +1,5 @@
 <div>
-<a href="https://github.com/DevJin27"><img src="[coding.gif](https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952i21z3p6rsmxvo2rht1vs800q6m738o6eldt3fm1v&ep=v1_stickers_search&rid=giphy.gif&ct=s)" alt="DevJin27"  align="right" width="400px"/></a>
+<a href="https://github.com/DevJin27"><img src="https://gifdb.com/gif/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.html?embed=true" alt="DevJin27"  align="right" width="400px"/></a>
 <br>
   
 -  _I’m currently working on TimeTuner_
