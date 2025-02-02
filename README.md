@@ -12,7 +12,8 @@
 - 🌱 Continuous Learning
 
 - 📫 _How to reach me **devjindal2317@gmail.com**_
-</div
+<br>
+</div>
 
 <br><br><br><br><br>
 
