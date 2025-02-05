@@ -32,8 +32,8 @@ _<h3 align="center" >⚙️ Languages and Tools</h3>_
 
 ## 💡 Currently Learning
 
-*   **Languages:** C++, JavaScript
-*   **Frameworks/Libraries:** React, TensorFlow, Django
+*   **Languages:** JavaScript
+*   **Frameworks/Libraries:** React, Django
 
 ## 🛠️ Projects
 
