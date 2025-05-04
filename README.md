@@ -34,7 +34,7 @@
 ## 💡 Currently Learning
 
 *   **Languages:** JavaScript
-*   **Frameworks/Libraries:** React, Django
+*   **Frameworks/Libraries:** React
 
 ## 🛠️ Projects
 
@@ -43,14 +43,18 @@
 * A system to manage books, sales, and staff with login, inventory management, sales tracking, and role-based access control. 
 * _Completed_ ✅
 
-  ### 2. Portfolio Website
-* A personal project to showcase my work and achievements.
-* _Work in Progress_ 🚀
+### 2. Project_map
+* **FastAPI, ReactJS**
+* A system to track realtipe drone telemetry data. 
+* _Completed_ ✅
 
-### 3. Time Tuner
-* **AI-powered**
-* A dynamic scheduling system prioritizing deadlines and integrating with college portals. Features planned: Focus Heatmap, AI-driven Scheduling, Deadline Prioritization.
-* _Future Project_ ⏳
+### 3. Inkora 
+* **ReactJS , Supabase**
+* swpe , match , Trade Books
+* _Ongoing_ 
+
+  
+  
 
 
 
